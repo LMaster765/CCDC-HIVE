@@ -1,5 +1,19 @@
 # HIVE Host Setup
 
+## Proxmox Cyber Range VM Configuartion
+
+If your setting up HIVE on a personal or university Proxmox cyber range, then follow the configuration guidance below for the VM that will be hosting HIVE. Explanations for the settings are given wherever possible, but I'm not 100% sure why some things should be configured how they are.
+
+
+### OS
+
+|Setting|Value|Reason|
+|-------|-----|------|
+|Storage|Depends on the range|
+|ISO Image|
+
+## Installing Ludus
+
 Full host setup instructions are not yet written. For now, this page hosts instructions for small portions of setup.
 
 ## Increasing Host Disk Size

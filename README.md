@@ -5,4 +5,4 @@ This repository outlines the vision and documents the current status of HIVE.
 
 ## Design Document
 
-For an overview of the project's goals and structure, check out the [design document](design.md)
+For an overview of the project's goals and structure, check out the [design document](docs/design.md)
