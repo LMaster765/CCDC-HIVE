@@ -1,0 +1,8 @@
+---
+galaxy_info:
+  author: CCDC HIVE
+  description: Configure a Debian server as a basic web server.
+  license: MIT
+  min_ansible_version: "2.15"
+
+dependencies: []
